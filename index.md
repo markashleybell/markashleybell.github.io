@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 Hi. There's not a great deal here right now, but if you're looking for my open source code, please visit my GitHub profile:
